@@ -1,0 +1,14 @@
+C:\Users\User\desktop\Newproj\Recap\bin\Debug\net7.0\Recap.exe
+C:\Users\User\desktop\Newproj\Recap\bin\Debug\net7.0\Recap.deps.json
+C:\Users\User\desktop\Newproj\Recap\bin\Debug\net7.0\Recap.runtimeconfig.json
+C:\Users\User\desktop\Newproj\Recap\bin\Debug\net7.0\Recap.dll
+C:\Users\User\desktop\Newproj\Recap\bin\Debug\net7.0\Recap.pdb
+C:\Users\User\desktop\Newproj\Recap\obj\Debug\net7.0\Recap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\desktop\Newproj\Recap\obj\Debug\net7.0\Recap.AssemblyInfoInputs.cache
+C:\Users\User\desktop\Newproj\Recap\obj\Debug\net7.0\Recap.AssemblyInfo.cs
+C:\Users\User\desktop\Newproj\Recap\obj\Debug\net7.0\Recap.csproj.CoreCompileInputs.cache
+C:\Users\User\desktop\Newproj\Recap\obj\Debug\net7.0\Recap.dll
+C:\Users\User\desktop\Newproj\Recap\obj\Debug\net7.0\refint\Recap.dll
+C:\Users\User\desktop\Newproj\Recap\obj\Debug\net7.0\Recap.pdb
+C:\Users\User\desktop\Newproj\Recap\obj\Debug\net7.0\Recap.genruntimeconfig.cache
+C:\Users\User\desktop\Newproj\Recap\obj\Debug\net7.0\ref\Recap.dll
