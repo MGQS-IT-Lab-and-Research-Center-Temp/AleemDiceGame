@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\desktop\\Newproj\\Recap\\Recap.csproj": {}
+    "C:\\Users\\User\\desktop\\NewProj\\Recap\\Recap.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\desktop\\Newproj\\Recap\\Recap.csproj": {
+    "C:\\Users\\User\\desktop\\NewProj\\Recap\\Recap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\desktop\\Newproj\\Recap\\Recap.csproj",
+        "projectUniqueName": "C:\\Users\\User\\desktop\\NewProj\\Recap\\Recap.csproj",
         "projectName": "Recap",
-        "projectPath": "C:\\Users\\User\\desktop\\Newproj\\Recap\\Recap.csproj",
+        "projectPath": "C:\\Users\\User\\desktop\\NewProj\\Recap\\Recap.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\desktop\\Newproj\\Recap\\obj\\",
+        "outputPath": "C:\\Users\\User\\desktop\\NewProj\\Recap\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

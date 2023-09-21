@@ -1,14 +1,15 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //Build Dice Game/
 using System.Diagnostics;
-
-Console.WriteLine("=== Mystic Dice Game===\nType'Start' or 'S' to roll the die");
+Console.ForegroundColor = ConsoleColor.DarkRed;
+Console.BackgroundColor = ConsoleColor.DarkBlue;
+Console.WriteLine("=== Mystic Dice Game===\nType'Start' or 'S' to Start the game");
 string startGame = Console.ReadLine()!;
 
-if (!(startGame.Equals("Start", StringComparison.OrdinalIgnoreCase)||startGame.Equals("S", StringComparison.OrdinalIgnoreCase)))
+while(!(startGame.Equals("Start", StringComparison.OrdinalIgnoreCase)||startGame.Equals("S", StringComparison.OrdinalIgnoreCase)))
 
 {
-    Console.WriteLine("Insert 'Start'  to proceed with the game instantly ");
+    Console.WriteLine("Type 'Start' or 's'  to proceed with the game instantly ");
     return;
 }
 Random random = new();
